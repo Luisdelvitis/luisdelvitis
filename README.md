@@ -2,9 +2,6 @@
 
 <div align="center">
   <samp>
-    <b>
-      システムアナリスト
-    </b>
       <br>
       Hi there! I'm Luis Delvitis
       <br>
