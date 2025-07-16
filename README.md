@@ -5,6 +5,7 @@
       <br>
       Hello there! I'm Luis Delvitis
       <br>
+    <br>
   </samp>
 </div>
 <div align="center">
@@ -15,7 +16,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/a/eEx9k54" width="200">
+  <img src="https://imgur.com/a/eEx9k54.gif" width="200">
 </div>
 
 <div align="center" width="100%">
