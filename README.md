@@ -44,13 +44,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisDelvitis&theme=vision_friendly_dark"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisDelvitis&theme=vision_friendly_dark"
   />
   <br>
   <br>
