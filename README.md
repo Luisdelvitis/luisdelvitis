@@ -17,12 +17,9 @@
 <div align="center">
   <img src="https://imgur.com/SGR1Rrh.gif" width="200">
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB812&width=435&lines=I'm+a+Software+Engineering+student+and+a+Tech+content+creator." alt="Typing SVG"/>
 </div>
 
 <br>
@@ -59,7 +56,6 @@
   <br>
   <br>
   <img
-    height=154
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=LuisDelvitis&theme=vision-friendly-dark&hide_border=true"
@@ -73,7 +69,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   
 </div>
