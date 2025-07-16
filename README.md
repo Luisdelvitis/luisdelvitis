@@ -58,7 +58,8 @@
   <img
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=LuisDelvitis&theme=vision-friendly-dark&hide_border=true"
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuisDelvitis&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /></a>
+
   />
   </div>
 
