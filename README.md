@@ -3,12 +3,12 @@
 <div align="center">
   <samp>
       <br>
-      Hi there! I'm Luis Delvitis
+      Hello there! I'm Luis Delvitis
       <br>
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuisdelvitis&s=40&c=ff00d0&bg=00000000&no=3&ff=digi&tb=&ta=" /></p> 
 </div>
       
 <br>
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB812&width=435&lines=I'm+a+Software+Engineering+student+and+a+Tech+content+creator." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB812&width=435&lines=I'm+a+Software+Engineering+student+;and+a+Tech+content+creator." alt="Typing SVG"/>
 </div>
 
 <br>
