@@ -19,6 +19,8 @@
   <img src="https://i.imgur.com/YPbtCGH.gif" width="200">
 </div>
 
+<br>
+
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB812&width=435&lines=I'm+a+Software+Engineering+student+;and+a+Tech+content+creator." alt="Typing SVG"/>
 </div>
