@@ -90,7 +90,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luisfernando.dslv10@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/delvitis/?next=%2F)
+  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/delvitis?igsh=MWYwYjVyOHF5bHM4dw==)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luis-f-72836a103/)
   
 </div>
