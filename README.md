@@ -6,7 +6,7 @@
       システムアナリスト
     </b>
       <br>
-      Hi there! I'm Kamilly Medino
+      Hi there! I'm Luis Delvitis
       <br>
   </samp>
 </div>
@@ -57,7 +57,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=algolia"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDelvitis&theme=vision_friendly_dark"
   />
   <br>
   <br>
