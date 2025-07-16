@@ -8,7 +8,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuisdelvitis&s=40&c=ff00d0&bg=00000000&no=3&ff=digi&tb=&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuisdelvitis&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
 </div>
       
 <br>
