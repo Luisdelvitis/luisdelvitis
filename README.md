@@ -19,7 +19,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB812&width=435&lines=I'm+a+Software+Engineering+student+;and+a+Tech+content+creator." alt="Typing SVG"/>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuisdelvitis&s=40&c=00b82e&bg=00000000&no=3&ff=digi&tb=&ta=" alt="Typing SVG"/>
 </div>
 
 <br>
