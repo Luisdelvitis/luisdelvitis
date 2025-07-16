@@ -62,7 +62,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=LuisDelvitis&theme=vision-friendly-dark&hide_border=true"
+    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisDelvitis&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)"
   />
   </div>
 
